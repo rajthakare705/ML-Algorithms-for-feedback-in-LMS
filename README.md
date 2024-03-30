@@ -20,3 +20,5 @@ The Covid pandemic has changed the way of living of people in many different way
 and automate the system. The machine learning models should be integrated along with LMS interface. Through this study various factors, research paper,mathematical models, tools and techniques and algorithms were recognized which will be helping in generating the correct result. This report will be helping us in implementing the project correctly and completely.
 
 ## Research Paper 
+
+https://ieeexplore.ieee.org/document/10450028
