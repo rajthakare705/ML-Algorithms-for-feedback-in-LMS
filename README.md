@@ -25,3 +25,4 @@ R. Thakare, H. Hasabnis, S. Barsainya, V. Surkar and R. Patil, "Automative Feedb
 
 https://ieeexplore.ieee.org/document/10450028
 
+![image](https://github.com/rajthakare705/ML-Algorithms-for-feedback-in-LMS/assets/95627754/e4f3fbf8-bb81-4c63-aa2e-0e144de312cd)
