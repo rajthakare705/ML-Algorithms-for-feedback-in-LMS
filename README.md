@@ -9,3 +9,8 @@ This study describes a learning management system (LMS) designed to enhance theo
 
 
 ## Results 
+![image](https://github.com/rajthakare705/ML-Algorithms-for-feedback-in-LMS/assets/95627754/577d7647-d2b7-4a13-88fc-c7d5948a1793)
+
+
+![image](https://github.com/rajthakare705/ML-Algorithms-for-feedback-in-LMS/assets/95627754/adc132be-a74d-4390-84fe-f242a3b5238b)
+
